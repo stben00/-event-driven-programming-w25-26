@@ -1,2 +1,0 @@
-# My website
-[link](https://bekzat-digital-nexus.lovable.app/)
